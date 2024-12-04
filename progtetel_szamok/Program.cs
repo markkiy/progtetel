@@ -14,6 +14,7 @@ namespace progtetel_szamok
             // 1. párosak ki válogatása
             int n = x.Length;
 
+            Console.WriteLine("Páros kiválasztás:");
 
             int[] parosak = new int[100];
             int db = 0;
@@ -32,6 +33,7 @@ namespace progtetel_szamok
                 Console.WriteLine(parosak[i]);
             }
 
+            Console.WriteLine("Maximum kiválasztás: ");
 
             // 2. maximum hely és érték
             int maxi = 0;
