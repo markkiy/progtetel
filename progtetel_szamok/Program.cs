@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace progtetel_szamok
 {
@@ -10,7 +7,11 @@ namespace progtetel_szamok
     {
         static void Main(string[] args)
         {
+            int[] x = { 2, 3, 4, 5, 15, 6, 36, 47, 7, 8, 9 };
 
+            // 1. párosak ki válogatása
+
+            // 2. maximum hely és érték
 
         }
     }
